@@ -1,10 +1,3 @@
----
-title: kalman filter 卡尔曼滤波的个人理解
-date: 2023-06-28 13:32:50
-tags: 状态观测器
-categories: 现代控制理论
-mathjax: true
----
 >**该文档归山东理工大学齐奇战队所有**
 >本文作者为原落尘，邮箱为<yuanluochen@foxmail.com>，笔者能力有限，如有问题，请您指出.
 
