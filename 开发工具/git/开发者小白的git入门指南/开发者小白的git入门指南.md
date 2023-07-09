@@ -1,9 +1,5 @@
----
-title: 开发者小白的git入门指南
-date: 2023-07-07 12:28:25
-tags: git与github
-categories: git与github
----
+# 开发者小白的git入门指南
+
 >**该文档归山东理工大学齐奇战队所有**
 >本文作者为原落尘，邮箱为<yuanluochen@foxmail.com>，在下能力有限，如有问题，请您指出。
 
